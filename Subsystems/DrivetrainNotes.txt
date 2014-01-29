@@ -1,0 +1,2 @@
+-Need to check how the set()command work in CANJaguar in the position mode if you send set repeatedly, where 
+does it reference the position from. When it was initialized or when the command was sent?
